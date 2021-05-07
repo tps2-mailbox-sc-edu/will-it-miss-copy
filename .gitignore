@@ -2,3 +2,4 @@ mdn-will-it-miss-master*
 node_modules
 dist
 .cache
+.github-personal-access-token
